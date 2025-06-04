@@ -9,9 +9,9 @@ Controls:
 - f: zoom and pan to fit all the particles into the window
 - c: center on the sun at the current zoom
 - minus: zoom out
-+ equals: zoom in
-+ left: pan left
-+ right: pan right
-+ up: pan up
-+ down: pan down
-+ escape: quit
+- equals: zoom in
+- left: pan left
+- right: pan right
+- up: pan up
+- down: pan down
+- escape: quit
