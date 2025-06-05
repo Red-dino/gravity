@@ -15,3 +15,5 @@ Controls:
 - up: pan up
 - down: pan down
 - escape: quit
+
+I originally created this sim in October 2023.
